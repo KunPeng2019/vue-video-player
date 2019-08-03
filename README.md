@@ -6,7 +6,7 @@
 
 # Example
 
-[Demo Page](https://surmon-china.github.io/vue-video-player)
+[Demo Page](https://kunpeng2019.github.io/video-demo)
 
 
 
