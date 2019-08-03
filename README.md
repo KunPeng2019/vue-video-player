@@ -1,8 +1,6 @@
 
 # Vue-Video-Player
 
-[video.js](https://github.com/videojs/video.js) player component for Vue.
-
 适用于 Vue 的 [video.js](https://github.com/videojs/video.js) 播放器组件。
 
 
